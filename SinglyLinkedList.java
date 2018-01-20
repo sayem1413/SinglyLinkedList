@@ -7,7 +7,6 @@ import java.util.Scanner;
 /*  Class Node  */
 class Node
 {
-	char checking;
     protected int data;
     protected Node link;
 
